@@ -1,3 +1,5 @@
+### Project has been moved to the [ezcater-js-toolkit](https://github.com/ezcater/ezcater-js-toolkit) monorepo
+
 <div align="center">
 <h1>ez-scripts 🛠📦</h1>
 
